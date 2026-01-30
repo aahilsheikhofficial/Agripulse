@@ -28,7 +28,7 @@ This results in dependency on middlemen, price exploitation, and reduced income.
 ## Proposed Solution
 **AgriPulse Connect** is a unified platform that provides:
 - Real-time market price intelligence
-- Direct farmer-to-buyer trading
+- Direct farmer-to-wholesale buyer trading
 - Voice-based access for digitally underserved farmers
 
 The system works via **Web, WhatsApp, and IVR (voice calls)** to ensure inclusivity.
@@ -39,5 +39,3 @@ The system works via **Web, WhatsApp, and IVR (voice calls)** to ensure inclusiv
 - Combines live market intelligence with direct selling
 - Voice-based IVR system for non-smartphone farmers
 - Demand-driven insights instead of static prices
-
----
