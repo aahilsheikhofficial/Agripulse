@@ -1,4 +1,4 @@
-# AgriPulse-Connect
+# Farm19
 
 ## Problem Statement ID
 CS03AE
@@ -41,54 +41,3 @@ The system works via **Web, WhatsApp, and IVR (voice calls)** to ensure inclusiv
 - Demand-driven insights instead of static prices
 
 ---
-
-## Technical Complexity & Stack
-**Frontend:** React / Next.js  
-**Backend:** Node.js + Express  
-**Database:** Firebase / Supabase  
-**APIs:** Mandi price APIs (mocked if unavailable)  
-**Voice System:** Twilio IVR  
-**Hosting:** Vercel  
-
----
-
-## Usability & Impact
-- Farmers gain price transparency
-- Buyers get direct access to producers
-- Reduces middlemen dependency
-- Improves farmer income by 20–35%
-
----
-
-## System Workflow
-1. Farmer checks live prices (Web / Voice)
-2. Farmer lists crop for sale
-3. Buyers place bids
-4. Farmer accepts best offer
-5. Buyer and farmer connect directly
-
----
-
-## Setup Instructions
-1. Clone the repository
-2. Install dependencies using `npm install`
-3. Run frontend using `npm run dev`
-4. Backend runs on `node index.js`
-5. IVR demo uses mocked calls (if live not available)
-
----
-
-## Demo & Presentation
-- Demo Video:
-- Slides: 
-
----
-
-## Future Scope
-- Payment integration
-- Logistics partners
-- Government/FPO onboarding
-- Regional language expansion
- 
-
-
